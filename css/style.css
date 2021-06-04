@@ -1,3 +1,12 @@
-h1{
-color:blue;
+h1 {
+  color: green;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  front-style: italic;
+  text-align: center;
+}
+p {
+  front-family: sans-serif;
 }
